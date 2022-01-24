@@ -1,0 +1,37 @@
+<html>
+<head>
+<title>網頁架構</title>
+</head>
+<body>
+
+
+</div>
+<h3>丸子圍爐火鍋</h3>
+</div>
+
+<a href="2nd.html">干貝炒芥菜</a>
+<a href="3nd.html">紅豆年糕</a>
+<a href="index.html">餐飲美食首頁</a>
+<a href="5nd.html">心得感想</a>
+
+<table border="1">
+<tr>
+<th>圖片</th>
+<th>標題</th>
+<th>說明</th>
+</tr>
+
+<tr>
+<td><img src=".\003.jpg" width="400" height="300" align="left"></td>
+<td><h3>丸子圍爐火鍋</h3></td>
+<td>圓形食材代表圓滿，將丸子與圍爐火鍋一同搭配，<br>
+家庭齊聚，圍著圓桌子團聚，<br>
+邊享用鍋內的圓丸子，圓上加圓的團圓意涵更喜氣。<br>
+魚丸、貢丸、花枝丸等，任何丸子備足三種類，<br>
+據說更有三元及第的祝福！<br>
+也可以加入高湯或是滴雞精在火鍋湯頭，更有風味。<p></td>
+</div>
+</tr>
+
+</table>
+<audio src=".\music2.mp3" autoplay controls> </audio>
